@@ -1,0 +1,11 @@
+# 10.rl_install.r
+     1  install.packages('RecordLinkage')
+     2  library(RecordLinkage)
+     3  install.packages('Hmisc')
+     4  install.packages('knitr')
+     5  install.packages('gdata')
+     6  install.packages('stringr')
+     7  install.packages('rms')
+     8  install.packages('RMySQL')
+     9  install.packages('gmodels')
+    10  install.packages('gtools')
